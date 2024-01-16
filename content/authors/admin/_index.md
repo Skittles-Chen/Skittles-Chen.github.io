@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: 陈海涛
 
 # Name pronunciation (optional)
 name_pronunciation: Haitao Chen
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Haitao Chen is currently a visiting undergraduate researcher at Rice University, advised by Prof. Lei Li.
+Haitao Chen is currently a visiting undergraduate researcher at Rice University, advised by Prof Lei Li.
 {style="text-align: justify;"}
