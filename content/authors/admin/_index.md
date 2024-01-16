@@ -23,8 +23,6 @@ role: Visiting Undergraduate Researcher
 organizations:
   - name: Rice University
     url: https://www.ece.rice.edu/
-  - name: Huazhong University of Science and Technology
-    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include biomedical photonics and computational imaging
