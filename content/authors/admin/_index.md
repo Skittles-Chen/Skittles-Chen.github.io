@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈海涛
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Haitao Chen
