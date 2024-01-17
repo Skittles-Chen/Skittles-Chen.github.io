@@ -23,7 +23,7 @@ role: Visiting Undergraduate Researcher
 organizations:
   - name: Rice University
     url: https://www.rice.edu/
-  - name: Huazhong University of Science and Technology
+  - name: Huazhong Univ. of Sci. & Tech.
     url: https://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: BEng in Biomedical Engineering
-      institution: Huazhong University of Science and Technology
+      institution: School of Engineering and Sciences, Huazhong University of Science and Technology
       year: 2024
 
 # Skills
