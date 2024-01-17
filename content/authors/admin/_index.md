@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Haitao Chen is currently a visiting undergraduate researcher at Rice University, advised by Prof. Lei Li(https://www.light-leili.com/).
+Haitao Chen is currently a visiting undergraduate researcher at Rice University, advised by Prof. [Lei Li](https://www.light-leili.com/).
 {style="text-align: justify;"}
