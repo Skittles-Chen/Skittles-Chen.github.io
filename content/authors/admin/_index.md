@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 陈海涛
+title: Haitao Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Haitao Chen
+name_pronunciation: 陈海涛
 
 # Full name (for SEO)
 first_name: Haitao
@@ -22,7 +22,9 @@ role: Visiting Undergraduate Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Rice University
-    url: https://www.ece.rice.edu/
+    url: https://www.rice.edu/
+  - name: Huazhong University of Science and Technology
+    url: https://english.hust.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include biomedical photonics and computational imaging
