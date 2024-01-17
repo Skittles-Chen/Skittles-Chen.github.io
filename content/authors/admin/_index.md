@@ -38,7 +38,7 @@ interests:
 education:
   courses:
     - course: BEng in Biomedical Engineering
-      institution: School of Engineering and Sciences, Huazhong University of Science and Technology
+      institution: School of Engineering and Sciences, Huazhong University of Science and Technology, Wuhan 430074, China
       year: 2024
 
 # Skills
