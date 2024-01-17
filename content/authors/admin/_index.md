@@ -38,8 +38,8 @@ interests:
 education:
   courses:
     - course: BEng in Biomedical Engineering
-      institution: School of Engineering and Sciences, Huazhong University of Science and Technology, Wuhan 430074, China
-      year: 2024
+      institution: School of Engineering and Sciences, Huazhong University of Science and Technology, Wuhan, China
+      year: 2020-2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -109,5 +109,5 @@ social:
 highlight_name: true
 ---
 
-Haitao Chen is currently a visiting undergraduate researcher at Rice University, advised by Prof. [Lei Li](https://www.light-leili.com/).
+Haitao Chen is a senior undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/), majoring in Biomedical Engineering. Previously, he was a research assistant at the [Britton Chance Center for Biomedical Photonics, WNLO](http://english.wnlo.hust.edu.cn/), working on tissue optics and fluorescence diffuse optical tomography with Dr. [Yong Deng](http://faculty.hust.edu.cn/dengyong/en/index.htm). He is currently working on photoacoustic tomography at Rice University, advised by Dr. [Lei Li](https://www.light-leili.com/).
 {style="text-align: justify;"}
