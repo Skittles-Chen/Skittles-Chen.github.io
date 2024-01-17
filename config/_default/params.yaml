@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Haitao Chen.'
+    notice: 'Copyright © 2023-{year} Haitao Chen'
 
 # Localization
 
