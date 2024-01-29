@@ -7,4 +7,4 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-  - path: github.com/Skittles-Chen/Skittles-Chen.github.io/blox-bootstrap
+  - path: github.com/Skittles-Chen/Skittles-Chen.github.io/blox-bootstrap/v5
