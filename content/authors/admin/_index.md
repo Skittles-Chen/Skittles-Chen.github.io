@@ -37,9 +37,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BEng in Biomedical Engineering
-      institution: School of Engineering and Sciences, Huazhong University of Science and Technology, Wuhan, China
-      year: 2020-2024
+    - course: B.Eng. in Biomedical Engineering
+      institution: Huazhong University of Science and Technology
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
